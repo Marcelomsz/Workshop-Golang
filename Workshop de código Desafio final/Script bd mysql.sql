@@ -1,8 +1,3 @@
-select * from dentists ;
-select * from patients ;
-select * from appointments ;
-SELECT * FROM patients WHERE id=1;
-
 CREATE DATABASE  IF NOT EXISTS `my_db`;
 
 USE `my_db`;
